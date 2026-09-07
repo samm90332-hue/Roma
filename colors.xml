@@ -1,0 +1,8 @@
+<resources>
+    <color name="roma_green">#35C98A</color>
+    <color name="roma_bg">#0D0F12</color>
+    <color name="roma_panel">#15181D</color>
+    <color name="roma_text">#F4F4F4</color>
+    <color name="roma_muted">#8D949E</color>
+    <color name="roma_icon_background">#0D0F12</color>
+</resources>
